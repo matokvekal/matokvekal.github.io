@@ -2,7 +2,7 @@
 ## subtitle
 # Projects
 
-Here are some of the major projects I've worked on:
+
 
 | Project Name     | Technologies Used                  | Description                                  |
 |------------------|------------------------------------|----------------------------------------------|
@@ -10,7 +10,7 @@ Here are some of the major projects I've worked on:
 | E-commerce App   | React, Node.js, MySQL              | A scalable full-stack e-commerce platform.    |
 | CI/CD Pipelines  | AWS, Terraform, GitHub Actions     | Automated CI/CD pipelines for deployments.    |
 
-
+# this is new line
 # Contact Me 1234
 
 Reach out to me through the following channels:
