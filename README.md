@@ -1,4 +1,4 @@
-# Hello World
+# Hello World From me
 ## subtitle
 # Projects
 
@@ -11,7 +11,7 @@ Here are some of the major projects I've worked on:
 | CI/CD Pipelines  | AWS, Terraform, GitHub Actions     | Automated CI/CD pipelines for deployments.    |
 
 
-# Contact Me
+# Contact Me 1234
 
 Reach out to me through the following channels:
 
